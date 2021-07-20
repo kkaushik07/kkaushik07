@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Keshav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Keshav Kaushik</h1>
 <h3 align="center">I'm a passionate FrontEnd Developer from India.</h3>
 
 
